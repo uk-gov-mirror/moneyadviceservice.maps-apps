@@ -1,0 +1,91 @@
+{
+  "headings": {
+    "en": [
+      "In most cases, you’ll have a defined benefit pension",
+      "You might have a defined contribution pension",
+      "In most cases you’ll have a defined contribution pension"
+    ],
+    "cy": [
+      "Yn y mwyafrif o achosion bydd gennych bensiwn buddion wedi’u diffinio",
+      "Efallai bod gennych bensiwn cyfraniadau wedi’u diffinio",
+      "Efallai bod gennych bensiwn cyfraniadau wedi’u diffinio"
+    ]
+  },
+  "questions": {
+    "en": [
+      "Was your pension set up by your employer?",
+      "Was that employer in the public sector?",
+      "Is your pension provider listed below?",
+      "When did you start this pension?"
+    ],
+    "cy": [
+      "A gafodd eich pensiwn ei sefydlu gan eich cyflogwr?",
+      "A oedd y cyflogwr hwnnw yn y sector cyhoeddus?",
+      "A yw eich darparwr pensiwn wedi'i restru isod?",
+      "Pryd wnaethoch chi ddechrau’r pensiwn hwn?"
+    ]
+  },
+  "titles": {
+    "setUpBy": "Was your pension set up by your employer?",
+    "pensionComeFrom": "Was that employer in the public sector?",
+    "pensionProvider": "Is your pension provider listed below?",
+    "pensionStartDate": "When did you start this pension?",
+    "checkYourAnswers": "Check your answers",
+    "checkYourAnswersCy": "Gwiriwch eich atebion",
+    "setUpByCy": "A gafodd eich pensiwn ei sefydlu gan eich cyflogwr?",
+    "pensionComeFromCy": "A oedd y cyflogwr hwnnw yn y sector cyhoeddus?",
+    "pensionProviderCy": "A yw eich darparwr pensiwn wedi'i restru isod?",
+    "pensionStartDateCy": "Pryd wnaethoch chi ddechrau’r pensiwn hwn?",
+    "providerDescription": "Some of these providers might have had different names in the past. For example, Aviva used to be called Norwich Union. You can check with your provider if you’re not sure.",
+    "providerDescriptionCy": "Mae’n bosibl bod rhai o’r darparwyr hyn wedi defnyddio enwau gwahanol yn y gorffennol. Er enghraifft, roedd Aviva yn cael ei alw’n Norwich Union yn flaenorol. Os nad ydych yn siŵr, gallwch wirio gyda’ch darparwr."
+  },
+  "providerResponses": {
+    "en": ["Yes", "No", "Not sure"],
+    "cy": ["Ydy", "Na", "Ddim yn siŵr"]
+  },
+  "providers": [
+    "Aberdeen Investments",
+    "Aegon",
+    "AJ Bell",
+    "Aviva",
+    "AXA",
+    "Barclays",
+    "Canada Life",
+    "Embark",
+    "Fidelity",
+    "Friends Life",
+    "Halifax",
+    "Hargreaves Lansdown",
+    "HSBC",
+    "Interactive Investor",
+    "Legal & General",
+    "Lloyds Bank",
+    "LV= (Liverpool Victoria)",
+    "M&G (previously the Prudential)",
+    "Moneybox",
+    "NEST (National Employment Savings Trust)",
+    "Novia",
+    "now:pensions",
+    "Nucleus",
+    "Penfold",
+    "PensionBee",
+    "Phoenix Life",
+    "Quilter",
+    "ReAssure",
+    "Royal Bank of Scotland",
+    "Royal London",
+    "RSA (Royal and Sun Alliance)",
+    "St. James’s Place",
+    "Scottish Friendly",
+    "Scottish Widows",
+    "Smart",
+    "Standard Life",
+    "The People’s Pension",
+    "Transact",
+    "Utmost",
+    "Vanguard",
+    "Virgin Money",
+    "Wesleyan General",
+    "Zurich"
+  ]
+}
